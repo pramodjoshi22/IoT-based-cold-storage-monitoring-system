@@ -1,13 +1,13 @@
 #include<ESP8266WiFi.h>
 #include<WiFiClient.h>
 #include<ESP8266HTTPClient.h>
-String URL="http://api.thingspeak.com/update?api_key=4P9BEOEIAY4IL1N5&field1=";
+String URL="http://api.thingspeak.com/update?api_key=YOUR_THINKSPEAK_KEY=";
 void setup() {
   Serial.begin(9600);
   WiFi.disconnect();
   delay(2000);
   Serial.print("Start connection...");
-  WiFi.begin("Airtel_Gdatt","InternetChor");
+  WiFi.begin("YOUR_SSID_NAME","YOUR_WIFI_PASSWORD");
   while((!(WiFi.status()== WL_CONNECTED))){
       delay(200);
       Serial.print("..");
