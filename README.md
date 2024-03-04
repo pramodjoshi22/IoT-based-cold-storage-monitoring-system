@@ -13,6 +13,9 @@ The objective of this Cold Storage Monitoring System report is to comprehensivel
     6.	Ch4 Sensor (MQ-3 Gas Sensor)
     7.	Light Sensor (LDR)
 
+## Block Diagram:
+![Block diagram_bb](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system/assets/86903432/4cd1f0b7-3627-41f9-a716-8e3ef9d89702)
+
 ## Sensor & Modules used in this project:
 
 📌*MQ-3 Sensor:*  The MQ3 sensor is used in food spoilage detectors to detect the emission of ethanol-type gases. When food or fruits spoil, they emit ethanol-type gases. The MQ3 sensor detects the concentration of these gases and outputs an analog voltage that is proportional to the gas concentration.
