@@ -16,19 +16,24 @@ The objective of this Cold Storage Monitoring System report is to comprehensivel
 ## Sensor & Modules used in this project:
 
 📌*MQ-3 Sensor:*  The MQ3 sensor is used in food spoilage detectors to detect the emission of ethanol-type gases. When food or fruits spoil, they emit ethanol-type gases. The MQ3 sensor detects the concentration of these gases and outputs an analog voltage that is proportional to the gas concentration.
+
 ![image](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system-/assets/86903432/9a254c21-ebab-4c68-a83c-1045d70f8b10)
 
 
 📌*LDR:* A Light Dependent Resistor (LDR) is a type of passive electronic sensor used to detect light. It's made up of two conductors separated by an insulator which becomes more conducting when exposed to high levels of light intensity, forming a variable resistor in the circuit.
+
 ![image](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system-/assets/86903432/10b3fc58-394c-4a01-bdc2-ce005c0d7d57)
 
 📌*DHT-11 Sensor:* The DHT-11 Digital Temperature and Humidity Sensor is a low-cost sensor that can detect moisture and ambient air temperature. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air. The DHT11 can measure temperature in the range of 0°C to 50°C (32°F to 122°F) with an accuracy of ±2°C. 
+
 ![image](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system-/assets/86903432/865a3a77-3111-49fe-9531-38754767c193)
 
 📌*NodeMCU:* The NodeMCU (Node MicroController Unit) is an open-source software and hardware development environment built around an inexpensive System-on-a-Chip (SoC) called the ESP8266. The ESP8266, designed and manufactured by Espressif Systems, contains the crucial elements of a computer: CPU, RAM, networking (WiFi), and even a modern operating system and SDK. That makes it an excellent choice for Internet of Things (IoT) projects of all kinds.
+
 ![image](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system-/assets/86903432/d5958337-92de-4676-b19f-615faaecede8)
 
 📌*Arduino UNO:* The Arduino UNO is the best board to get started with electronics and coding. If this is your first experience tinkering with the platform, the UNO is the most robust board you can start playing with. The UNO is the most used and documented board of the whole Arduino family.
+
 ![image](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system-/assets/86903432/c488a3a7-7fdb-4c22-b69e-e27c69042c93)
 
 
@@ -38,6 +43,7 @@ ThingSpeak is an open-source IoT analytics service that allows users to collect,
 ThingSpeak allows users to create sensor logging applications, location tracking applications, and a social network of things with status updates. Users can send data to ThingSpeak from their devices and create instant visualizations of live data without having to write any code.
 
 ![image](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system-/assets/86903432/ae9c83ff-69fc-41de-ab9b-3f0e1c7f2e6f)
+
 
 ![image](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system-/assets/86903432/73693973-83c0-4d11-8a73-1af0519fb6de)
 
