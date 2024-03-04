@@ -50,6 +50,9 @@ ThingSpeak allows users to create sensor logging applications, location tracking
 
 ![image](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system-/assets/86903432/73693973-83c0-4d11-8a73-1af0519fb6de)
 
+## Hardware Connection:
+![111](https://github.com/pramodjoshi22/IoT-based-cold-storage-monitoring-system/assets/86903432/5620f997-70a2-45f5-ab1e-9794054dea2f)
+
 
 ## Conclusion:
  
